@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jihwan's%20GitHub%&fontSize=80)
 
+<h1 align="center"> ✨ Interest ✨ </h1>
+
+
 <h1 align="center"> ⚒️ Tech Stack ⚒️ </h1>
 <h2 align="center"> 😊 Mainly used 😊 </h2>
 <div align="center">
