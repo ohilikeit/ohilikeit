@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlghksqkqh@gmail.com"/></a>
 </div>
 
+
 <div align="center">
 <h1 align="center"> ⚒️ Tech Stack ⚒️ </h1>
 <h2 align="center"> 😊 Mainly used 😊 </h2>
@@ -19,14 +20,10 @@
   <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/></a>
   <br>
-  
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
   <br>
-</div>
-
-<div align="center">
 <h2 align="center"> 👍 Used more than once 👍 </h2>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white">
