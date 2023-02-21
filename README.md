@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome!%&fontSize=100)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jihwan's%20GitHub%&fontSize=80)
 
 <h1 align="center"> ⚒️ Tech Stack ⚒️ </h1>
 <h2 align="center"> 😊 Mainly used 😊 </h2>
@@ -33,6 +33,6 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohilikeit&layout=compact"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ohilikeit&show_icons=true">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohilikeit&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=ohilikeit&show_icons=true&theme=radical">
 </div>
