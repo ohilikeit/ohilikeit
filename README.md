@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jihwan's%20GitHub%&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=Jihwan's%20GitHub%&fontSize=80)
 <h1 align="center"> ☎️ Contact ☎️ </h1>
 <div align="center">
 <a href="https://velog.io/@ohilikeit">
