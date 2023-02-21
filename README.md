@@ -1,17 +1,22 @@
+<div align="center">
 <h1 align="center"> ☎️ Contact ☎️ </h1>
+  <a href="https://velog.io/@ohilikeit">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100004043898177">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+  <a href="https://www.instagram.com/jihwan7246/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="mailto:wlghksqkqh@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D0A9F5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wlghksqkqh@gmail.com"/></a>
+</div>
+
 <div align="center">
-<a href="https://velog.io/@ohilikeit" target="_blank">
-  <img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
- 
-
-
-
 <h1 align="center"> ⚒️ Tech Stack ⚒️ </h1>
-<div align="center">
 <h2 align="center"> 😊 Mainly used 😊 </h2>
   <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=for-the-badge&logo=Tensorflow&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Pytorch&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white"/></a>
   <br>
   
