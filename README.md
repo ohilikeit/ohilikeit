@@ -22,7 +22,7 @@
 <h1 align="center"> 🏆 Awards 🏆 </h1>
 <div align="center">
   
-  [Data Science Festival Competition](https://www.menteimo.com/nia_9) 1st of 50 teams 🥇
+  [Data Science Festival Competition](https://stat.cnu.ac.kr/_attach/image/editor_image/2022/11/YnNzCimHEISBZeFnoQex.png) 1st of 50 teams 🥇
 
 </div>
 
